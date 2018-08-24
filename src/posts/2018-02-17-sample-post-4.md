@@ -2,7 +2,7 @@
 layout: blog
 title: 'Sample Post #4'
 date: 2018-02-19T00:48:58.232Z
-thumbnail: /uploads/image3.jpg
+thumbnail: /uploads/baby.png
 rating: '2'
 ---
 This is sample post #4.
