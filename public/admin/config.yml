@@ -28,16 +28,4 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "ruta"}
       - {label: "Lugar inicio", name: "inicio", widget: "string"}
       - {label: "Lugar final", name: "fin", widget: "string"}
-      - label: "Horarios"
-      name: "horarios"
-      widget: "object"
-      fields:
-        - {label: "Punto", name: "punto", widget: "string"}
-        - {label: "Hora", name: "hora", widget: "datetime"}
-      - label: "Paradas"
-      name: "paradas"
-      widget: "object"
-      fields:
-        - {label: "Nombre", name: "nombre", widget: "string"}
-        - {label: "Latitud", name: "latitud", widget: "number"}
-        - {label: "Longitud", name: "longitud", widget: "number"}
+    
