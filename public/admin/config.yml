@@ -29,9 +29,8 @@ collections:
       - {label: "Lugar inicio", name: "inicio", widget: "string"}
       - {label: "Lugar final", name: "fin", widget: "string"}
       - label: "Horarios"
-      name: "horarios"
-      widget: "object"
-      fields:
-        - {label: "Punto", name: "punto", widget: "string"}
-        - {label: "Hora", name: "hora", widget: "datetime"}
-      
+        name: "horarios"
+        widget: "object"
+        fields:
+          - {label: "Punto", name: "punto", widget: "string"}
+          - {label: "Hora", name: "hora", widget: "datetime"}
